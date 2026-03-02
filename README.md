@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello world 👋
 
-<!--
-**LaoraSad/LaoraSad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Luisa De la Rosa.
+- I'm a Software Developer in training in peru.
+- 🌱 I'm currently learning the fundamentals of Python and building a strong foundation in software development.
+- 💻 I'm working on improving my programming logic and creating small projects to sharpen my skills.
+- 💄 I'm passionate about makeup and creativity, and I love how small details can completely transform a look.
+- ✨ Fun fact: I see makeup like coding — both require creativity, precision, and attention to detail!
 
-Here are some ideas to get you started:
+## Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
